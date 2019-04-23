@@ -1,4 +1,4 @@
-package AbstractFactory.ex1;
+package abstractFactory.ex1;
 
 public abstract class AbstractNumberOperandProduct {
 

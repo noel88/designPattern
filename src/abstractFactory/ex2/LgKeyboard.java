@@ -1,4 +1,4 @@
-package AbstractFactory.ex2;
+package abstractFactory.ex2;
 
 public class LgKeyboard implements Keyboard {
 

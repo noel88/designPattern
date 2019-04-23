@@ -1,4 +1,4 @@
-package AbstractFactory.ex1;
+package abstractFactory.ex1;
 
 public class IntegerNumberOperandProduct extends AbstractNumberOperandProduct {
     public IntegerNumberOperandProduct(String value) {
