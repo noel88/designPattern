@@ -1,4 +1,4 @@
-package AbstractFactory;
+package AbstractFactory.ex1;
 
 public abstract class AbstractOperationFactory {
 

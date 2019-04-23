@@ -1,4 +1,4 @@
-package AbstractFactory;
+package AbstractFactory.ex1;
 
 public class Client {
 
@@ -18,7 +18,7 @@ public class Client {
         operationFactory = new DoubleOperationFactory();
 
         operationProduct = operationFactory.createOperationProduct();
-        operationProduct.setSecondNumberOperandProduct(operationFactory.createNumberOperandProduct(firstNumber));
+        operationProduct.setFirstNumberOperandProduct(operationFactory.createNumberOperandProduct(firstNumber));
         operationProduct.setSecondNumberOperandProduct(operationFactory.createNumberOperandProduct(secondNumber));
 
         operationProduct.print();
