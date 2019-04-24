@@ -6,3 +6,5 @@
 4. prototype 프로토타입 패턴
 5. abstract Factory 추상팩토리 패턴
 6. Adapter 어댑터 패턴
+7. bridge 브릿지 패턴
+8. composite 컴포지트 패턴
