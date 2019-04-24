@@ -8,3 +8,4 @@
 6. Adapter 어댑터 패턴
 7. bridge 브릿지 패턴
 8. composite 컴포지트 패턴
+9. decorator 테코레이터 패턴
